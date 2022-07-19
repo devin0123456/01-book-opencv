@@ -1,11 +1,5 @@
-《OpenCV3编程入门》书本配套源代码
-==============================
-#### 《Introduction to OpenCV3 Programming》Book Source Code<br>
+从opencv开始建立自己的git代码库
 
-![](http://img.blog.csdn.net/20150325155409850)  
-<br>本书有OpenCV2、OpenCV3两套独立的书本配套示例程序供选择使用。
-<br>  有4个部分11章，共有95个主线示例程序，为方便大家查阅和学习，总结成如下。
-# 正文部分源代码
 ## 第一部分 快速上手OpenCV
 		1	OpenCV环境配置的测试用例	1.3.8
 		2	快速上手OpenCV的第一个程序：图像显示	1.4.1
@@ -137,13 +131,5 @@
 		21	用高斯背景建模分离背景
 
 
-<br>
 
-
-# 书本勘误&维护博文
-
-[【书本勘误&维护博文】](http://blog.csdn.net/poem_qianmo/article/details/44416709)
-
-![](http://img.blog.csdn.net/20150325202951885)  
-<br>Please Enjoy~
 
